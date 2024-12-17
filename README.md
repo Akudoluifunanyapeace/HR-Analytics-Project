@@ -130,7 +130,7 @@ I created a number of visuals to show the Total employee, Job level view, Servic
 ### FINDINGS AND RECOMMENDATION
 Base on the Analysis I found out that
 
--	 What dertermines whether an employee will be layoff or not, is the number of years an employee has worked in the company. Employees with service year (18 years and above) are been laid off while those from 17 years and below are actively working.
+-	 What dertermines whether an employee will be laid off or not, is the number of years an employee has worked in the company. Employees with service year (18 years and above) are been laid off while those from 17 years and below are actively working.
 
 -	 What determines whether an employee will be due for promotion or not, is the number of years since last promoted. Employees from 10 years and above will be due for promotion while Employees from 9 years below will not be due for promotion.
      
@@ -145,7 +145,7 @@ Base on the Analysis I recommend that
 -	Employee/ Staff quarters should be built in order to encourage those employees who stay very far to move closer to the company. This will help enhance work flow, productivity and give stability to the employee.
 
   
--	Laying off of an employee shouldn’t only be based off on the number of years he/she has worked in the company. It could also be based on misconduct, theft, or any ill-mannered behavior coming from the employee etc.. 
+-	Laying an employee off shouldn’t only be based off on the number of years he/she has worked in the company. It could also be based on misconduct, theft, or any ill-mannered behavior coming from the employee etc.. 
 
 
 
